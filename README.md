@@ -1,4 +1,4 @@
-# Python CLI Argument Parser
+# Python CLI Argument Parser Example Snippet
 
 > **Note!**
 > 
